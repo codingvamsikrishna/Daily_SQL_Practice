@@ -27,4 +27,8 @@ Improve proficiency in:
 ### Day 01
 - Count total number of orders in the system.
 
+### Day 02
+- Which city places the highest number of orders?
+
+
 More queries will be added daily to maintain consistency and improve analytical thinking.
