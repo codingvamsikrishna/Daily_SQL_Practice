@@ -30,5 +30,8 @@ Improve proficiency in:
 ### Day 02
 - Which city places the highest number of orders.
 
+### Day 03
+- -- How many orders are placed in each category?
+
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
