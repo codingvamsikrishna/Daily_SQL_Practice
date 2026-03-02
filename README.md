@@ -33,5 +33,8 @@ Improve proficiency in:
 ### Day 03
 - How many orders are placed in each category.
 
+### Day04
+-- How many days each shipment took for delivery.
+
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
