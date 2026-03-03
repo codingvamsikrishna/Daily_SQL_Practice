@@ -36,5 +36,8 @@ Improve proficiency in:
 ### Day04
 -- How many days each shipment took for delivery.
 
+### Day 05
+--  Which shipments are delayed.
+
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
