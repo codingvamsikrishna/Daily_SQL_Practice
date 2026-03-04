@@ -39,5 +39,9 @@ Improve proficiency in:
 ### Day 05
 -  Which shipments are delayed.
 
+### Day 06
+- Which warehouse is causing the most delays.
+
+
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
