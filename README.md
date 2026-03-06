@@ -45,6 +45,8 @@ Improve proficiency in:
 ### Day 07
 - Warehouse causing most delayed shipments.
 
+### Day 08
+
 
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
