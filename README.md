@@ -46,6 +46,7 @@ Improve proficiency in:
 - Warehouse causing most delayed shipments.
 
 ### Day 08
+- Which delivery partner is causing the most delays.
 
 
 
