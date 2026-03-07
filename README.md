@@ -48,6 +48,10 @@ Improve proficiency in:
 ### Day 08
 - Which delivery partner is causing the most delays.
 
+### Day 09
+- which city has the most delayed shipments?
+
+
 
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
