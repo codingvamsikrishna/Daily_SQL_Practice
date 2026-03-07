@@ -49,7 +49,7 @@ Improve proficiency in:
 - Which delivery partner is causing the most delays.
 
 ### Day 09
-- which city has the most delayed shipments?
+- which city has the most delayed shipments.
 
 
 
