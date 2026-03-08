@@ -51,6 +51,10 @@ Improve proficiency in:
 ### Day 09
 - which city has the most delayed shipments.
 
+### Day 10
+- What is the average delivery time for each warehouse.
+
+
 
 
 
