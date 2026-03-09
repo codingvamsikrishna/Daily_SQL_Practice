@@ -54,6 +54,11 @@ Improve proficiency in:
 ### Day 10
 - What is the average delivery time for each warehouse.
 
+### Day 11
+- which category has the most delyed shipments.
+
+
+
 
 
 
