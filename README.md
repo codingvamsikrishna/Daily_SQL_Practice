@@ -57,6 +57,10 @@ Improve proficiency in:
 ### Day 11
 - which category has the most delyed shipments.
 
+### Day 12
+- which customer city has the highest average delivery time.
+
+
 
 
 
