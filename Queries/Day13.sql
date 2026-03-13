@@ -1,4 +1,4 @@
-### Day 13
+-- Day 13
 -- Business question:-  which warehouse handles the most orders?
 select w.warehouse_id, w.city,
 count(o.order_id) as total_orders
