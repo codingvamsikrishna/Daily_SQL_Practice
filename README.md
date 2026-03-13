@@ -60,6 +60,10 @@ Improve proficiency in:
 ### Day 12
 - which customer city has the highest average delivery time.
 
+### Day 13
+- Business question:-  which warehouse handles the most orders?
+
+
 
 
 
