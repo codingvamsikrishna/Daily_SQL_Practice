@@ -63,6 +63,8 @@ Improve proficiency in:
 ### Day 13
 - Business question:-  which warehouse handles the most orders?
 
+### Day 14
+- Business question:- which delivery partner works with which warehouse the most.
 
 
 
