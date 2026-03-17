@@ -66,6 +66,10 @@ Improve proficiency in:
 ### Day 14
 - Business question:- which delivery partner works with which warehouse the most.
 
+### Day 15
+-- Business question:- Which category of products takes the highest average delivery time.
+
+
 
 
 
