@@ -70,11 +70,4 @@ Improve proficiency in:
 -- Business question:- Which category of products takes the highest average delivery time.
 
 
-
-
-
-
-
-
-
 More queries will be added daily to maintain consistency and improve analytical thinking.
