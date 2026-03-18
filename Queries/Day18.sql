@@ -1,1 +1,2 @@
-
+-- Day 16
+-- Find the average delay (in days) for each delivery partner.
