@@ -67,7 +67,7 @@ Improve proficiency in:
 - Business question:- which delivery partner works with which warehouse the most.
 
 ### Day 15
--- Business question:- Which category of products takes the highest average delivery time.
+- Business question:- Which category of products takes the highest average delivery time.
 
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
