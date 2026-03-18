@@ -69,5 +69,8 @@ Improve proficiency in:
 ### Day 15
 - Business question:- Which category of products takes the highest average delivery time.
 
+### Day 16
+- Business question:- Find the top 3 customers who have the highest number of delayed shipments.
+
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
