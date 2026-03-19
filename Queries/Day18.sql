@@ -1,2 +1,2 @@
--- Day 16
--- Find the average delay (in days) for each delivery partner.
+-- Day 18
+-- Business question:- Find the warehouse with the fastest average delivery time.
