@@ -75,6 +75,9 @@ Improve proficiency in:
 ### Day 17
 - Business Question:- Find the average delay (in days) for each delivery partner.
 
+### Day 18
+- Business question:- Find the warehouse with the fastest average delivery time.
+
 
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
