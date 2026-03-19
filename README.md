@@ -72,5 +72,9 @@ Improve proficiency in:
 ### Day 16
 - Business question:- Find the top 3 customers who have the highest number of delayed shipments.
 
+### Day 17
+- Business Question:- Find the average delay (in days) for each delivery partner.
+
+
 
 More queries will be added daily to maintain consistency and improve analytical thinking.
