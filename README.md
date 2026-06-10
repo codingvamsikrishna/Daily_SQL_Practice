@@ -7,7 +7,7 @@ Supply Chain Database
 
 Tables:
 - customers
-- orders
+- orders 
 - warehouses
 - shipments
 - delivery_partners
